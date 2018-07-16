@@ -202,7 +202,7 @@ p{
 }
 .theory__text{
 	display: flex;
-	padding-bottom: 46px;
+	padding-bottom: 40px;
 }
 
 .theory__text p{
@@ -215,7 +215,7 @@ p{
 
 /*---review---*/
 .review h2{
-	padding-top: 55px;
+	padding-top: 65px;
 	color: #a38b70;
 	font-weight: 700;
 	font-size: 45px;
@@ -356,7 +356,7 @@ p{
 .service__item td{
 	border: 1px solid #d8d8d8;
 	text-align: left;
-	padding-left: 18px;
+	padding-left: 15px;
 	height: 48px;
 
 }
@@ -428,7 +428,7 @@ p{
 	width: 610px;
 	height: 45px;
 	text-align: left;
-	padding: 5.5px 0 0 15px;
+	padding: 5.5px 0 0 16px;
 	border: 1px solid #d5d5d5;
 	margin-bottom:23px;
 	margin-top:10px;
@@ -604,13 +604,13 @@ p{
 
  .footer-logo{
  	padding-top:  46px;
- 	padding-bottom: 44px;
+ 	padding-bottom: 40px;
  	margin:0 130px 0 130px;
  	border-bottom: 1px solid #5e5e5e;
  }
  .footer__logo img{
  	width: 205px;
-	 height: 55px;
+	height: 55px;
  }
 
 .footer__btn{
@@ -637,7 +637,7 @@ p{
 
 .footer-menu__section{
 	margin-right: 72px;
-	padding-bottom: 40px;
+	padding-bottom: 45px;
 }
 
  .footer-menu h2{
@@ -693,7 +693,8 @@ p{
 
 .social__item img{
 	display: block;
-	margin: 20px auto;
+	margin: 18px auto;
+	text-align: center;
 }
 
 .social__item:hover{
